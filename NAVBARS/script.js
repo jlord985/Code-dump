@@ -6,6 +6,7 @@ function subMenu() {
     const hideMEnu = document.querySelector('.hideMenu')
     hideMEnu.classList.toggle('showMenu')
 }
+alert('testing out changing the codes)
 
 const boxDiv = document.querySelectorAll('.box')
 
